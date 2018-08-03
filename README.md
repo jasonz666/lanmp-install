@@ -1,6 +1,6 @@
 # lanmp-install
 Bash script for auto installing LAMP or LNMP environment.  
-Run main script lanmp.sh to use.
+Run main script `lanmp.sh` to use.
 
 ## Introduction:
 You can select following apache/nginx/mysql/php versions to install:  
