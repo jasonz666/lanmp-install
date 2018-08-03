@@ -12,5 +12,6 @@ Nginx 1.8.x or Apache 2.2.x
 ```bash
 git clone https://github.com/jasonz666/lanmp-install.git
 cd lanmp-install
+chmod +x lanmp.sh
 ./lanmp.sh
 ```
